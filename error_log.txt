@@ -1,0 +1,5 @@
+[2026-04-04 14:30:54.649405] ERROR in fetch_laptops: HTTPSConnectionPool(host='dummyjson.com', port=443): Read timed out. (read timeout=5)
+[2026-04-04 14:31:07.227633] ERROR in lookup_product: 404 for ID 78
+[2026-04-04 14:31:24.517919] ERROR in lookup_product: 404 for ID 44
+[2026-04-04 14:31:58.610404] ERROR in lookup_product: 404 for ID 55
+[2026-04-04 14:36:56.191138] ERROR in lookup_product: 404 for ID 55
